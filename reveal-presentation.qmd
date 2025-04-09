@@ -1,0 +1,89 @@
+---
+---
+title: "Customer Satisfaction in the Airline Industry"
+format: 
+  revealjs:
+    theme: sky
+    width: 1600
+    height: 900
+    footer: "Customer Satisfaction in the Airline Industry"
+    transition: convex
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# United Airlines Customer Satisfaction Analysis
+
+## Business Problem and Analytics Objectives
+
+Janette Limon
+
+## Business Problem
+
+::: incremental
+-   Airlines face increasing pressure to differentiate themselves in a competitive market.
+-   Customer satisfaction is a complex, multidimensional concept influenced by shifting preferences and expectations.
+-   Our analysis identifies satisfaction drivers and provides actionable insights for United Airlines' service strategyundefinedundefinedundefined
+:::
+
+## Analytics Objectives
+
+::: incremental
+-   Objective 1: Influence of Inflight Service Quality on Satisfaction.
+-   Objective 2: Impact of Operational Efficiency on Satisfaction.
+-   Objective 3: Role of Demographics and Travel Purpose in Satisfaction.
+-   Objective 4: Comfort & Accessibility Factors' Influence on Satisfaction.
+:::
+
+## Background
+
+-   Mission: "Connecting people. Uniting the world."
+-   **Core Values**: Safety, Caring, Dependability, Efficiency.
+-   Extensive flight network across 50+ countries.
+-   Leadership in technology and sustainable initiatives.
+
+## Core Competencies
+
+::: columns
+### Global Network & Strategic Partnerships {.column}
+
+-   Founding member of the Star Alliance.
+-   Access to 1,300+ global destinations.
+
+### Customer Loyalty & Rewards {.column}
+
+-   Comprehensive MileagePlus program.
+-   Exclusive perks and benefits.
+:::
+
+## Value Propositions
+
+::: incremental
+-   **Safety**: High standards with continuous safety improvement.
+-   **Caring**: Welcoming environment with personalized customer service.
+-   **Dependability**: Reliable services for seamless trip experiences.
+-   **Efficiency**: Better operations, productivity, and reduced waste.
+:::
+
+## Conclusion
+
+-   Airlines face pressure to differentiate in a competitive market.
+-   Focused analysis reveals actionable satisfaction drivers.
+-   Strategic insights for enhancing United Airlines' service strategy.
+
+# 
